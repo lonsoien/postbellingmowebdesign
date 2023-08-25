@@ -73,7 +73,7 @@ function Service() {
                         navigere sin foretning på nett, slik at man blir lett tilgjengelig. 
                         Med en business nettside har man flere funksjoner, innhold, og landingssider. Gjerne en hjemmeside med 1-3 ekstra
                         landingssider som f.eks informasjon om bedriften, kontakt detaljer, navigere til ulike tjenester og service 
-                        de kan tilby sine kunder/klienter. 
+                        man kan tilby sine kunder/klienter. 
                         Dette er også en fin måte å markedsføre sin foretnings identitet for å øke kundegruppen og veksten 
                         i selskapet. </p>
                     <br/>
@@ -89,9 +89,9 @@ function Service() {
                         Det vi gjør først er å planlegge og avtale aspekter som design, landingssider, div funksjonalitet,
                         innhold størrelse, fonts m.m. 
                         <br/>
-                        Når vi er enige om identiteten og layouten starter selve designe prossesen. 
-                        Dette kan ta alt fra 1-4 uker å utvikle prototypen. Her vil man da ha muligheter for 
-                        å delta i designer prossesen for å gi feedback. Når man er fornøyd med resultatet går
+                        Når vi er enige om identiteten og layouten starter selve designer prossesen. 
+                        Dette kan ta alt fra 1-4 uker å utvikle prototypen. Her vil man ha muligheter for 
+                        å delta i designer fasen for å gi feedback. Når man er fornøyd med resultatet går
                         man over til kodingen/utviklingen av selve nettsiden.
                         Dette tar også tid alt fra 2-4 uker. 
                     </p>
