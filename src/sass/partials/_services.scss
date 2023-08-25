@@ -1,0 +1,30 @@
+.service {
+    position: relative;
+    display: flex;
+    padding: 20px;
+}
+
+.service-text {
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    max-width: 440px;
+}
+
+@media (max-width: "1000px") {
+.service {
+    display: flex;
+    flex-direction: column;
+}
+.service {
+    text-align: center;
+    align-items: center;
+}
+
+ .service-text p {
+    font-size: 14px;
+ }
+ li {
+    list-style: none;
+ }
+}

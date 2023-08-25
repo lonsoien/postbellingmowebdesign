@@ -1,0 +1,36 @@
+/* Fonts */ /*
+font-family: 'Figtree', sans-serif;
+font-family: 'Monofett', monospace;
+font-family: 'Poppins', sans-serif;
+*/
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    letter-spacing: -0.1rem;
+    margin-left: 3ch;
+    font-weight: 500;
+    font-size: 4em;
+}
+
+h4 {
+  //  margin-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    
+}
+
+p {
+    font-family: 'Figtree', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+
+
+@media (max-width: 700px) {
+    h1 {
+        font-size: 2em;
+    }
+}

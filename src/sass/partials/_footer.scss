@@ -1,0 +1,54 @@
+hr {
+    background-color: #E3E8E9;
+    height: 2px;
+    border: none;
+}
+
+footer {
+    display: flex;
+    color: #E3E8E9;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.adress {
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.links a {
+  font-family: 'Poppins', sans-serif;
+  color: #E3E8E9;
+  font-weight: 600;
+  text-align: center;
+  align-items: center;
+  margin: 30px;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
+
+
+@media (max-width: "700px") {
+    footer {
+        display: flex;
+        text-align: center;
+    }
+    .footer-content {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        justify-content: center;
+        }
+    .icon-box {
+        flex-direction: inline-block;
+    }
+
+    .links a {
+        padding: 10px;
+    }
+
+}

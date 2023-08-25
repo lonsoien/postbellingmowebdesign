@@ -1,0 +1,108 @@
+.logo img {
+    width: 140px;
+    height: 60px;
+    margin: 25px;
+}
+
+input {
+    display: none;
+}
+
+nav {
+    display: flex;
+}
+
+.navigation {
+    font-size: 15px;
+    color: #1E262D;
+    display: inline-flex;
+    margin: 20px;
+    padding-top: 20px;
+}
+
+.hover {
+    --b: 0.1em;   /* the thickness of the line */
+    --c: #ffffff; /* the color */
+    
+    color: #0000;
+    padding-block: var(--b);
+    background: 
+      linear-gradient(var(--c) 50%,#000 0) 0% calc(100% - var(--_p,0%))/100% 200%,
+      linear-gradient(var(--c) 0 0) 0% var(--_p,0%)/var(--_p,0%) var(--b) no-repeat;
+    -webkit-background-clip: text,padding-box;
+            background-clip: text,padding-box;
+    transition: .3s var(--_s,0s) linear,background-size .3s calc(.3s - var(--_s,0s));
+  }
+
+  .hover:hover {
+    --_p: 100%;
+    --_s: .3s;
+  }
+
+.link {
+    text-align: center;
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+@media (min-width: 0px) and (max-width: 700px) {
+
+    .navigation {
+        display: none;
+    }
+
+    .toggle {
+        position: absolute;
+        height: 40px;
+        width: 40px;
+        top: 20px;
+        right: 15px;
+        //box-shadow: 0 0 10px rgba(0,0,0,0.3);
+        background-color: #e3e8e9;
+        cursor: pointer;
+        border-radius: 1px;
+        border-style: solid;
+        z-index: 1;
+      }
+
+      .toggle .common {
+        position: absolute;
+        height: 4px;
+        //width: 21px;
+        background-color: #1E262D;
+        border-radius: 50px;
+        transition: 0.3s ease;
+      }
+
+      .toggle .top-line {
+        top: 25%;
+        left: 18%;
+        width: 25px;
+      }
+      
+      .toggle .middle-line {
+        top: 45%;
+        left: 40%;
+        width: 15px;
+      }
+      
+      .toggle .bottom-line {
+        top: 65%;
+        left: 18%;
+        width: 25px;
+      }
+      
+      .hamburger-menu:checked ~ .navigation {
+        display: block;
+    }
+
+    nav {
+        display: grid;
+        grid: 2;
+        justify-content: center;
+    }
+
+    .link {
+        margin: 0%;
+    }
+}
