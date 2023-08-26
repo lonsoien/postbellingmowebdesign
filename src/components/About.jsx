@@ -1,5 +1,5 @@
 import React from "react";
-import program from "../images/programming.jpg";
+import program from "../images/program.jpg";
 import huldra from "../images/prosjekthuldrablog_mockup.png";
 import house from "../images/houseofcode-mockup.png";
 import kicks from "../images/kickscrew-mockup.png";

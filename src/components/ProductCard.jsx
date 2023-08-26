@@ -25,14 +25,14 @@ function ProductCard() {
           <img alt="webdesign product" src={huldra} className="web-image"></img>
           <div className="view-button">
             <a href="/digitalproducts">VIEW</a>
-            <p>Business webpage</p>
+            <p>Business webside</p>
           </div>
         </div>
         <div className="card-product">
           <img alt="webdesign product" src={huldra} className="web-image"></img>
           <div className="view-button">
             <a href="/digitalproducts">VIEW</a>
-            <p>E-commerce webpage</p>
+            <p>Egen utviklet webside</p>
           </div>
         </div>
       </div>

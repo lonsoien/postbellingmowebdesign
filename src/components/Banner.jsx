@@ -62,9 +62,9 @@ const letterAni = {
           transition={{ ease: "easeInOut", duration: 1, delay: 0.4,}}
           className='row-col'>
           <span className='row-message'> 
-            Browse through the Webdesigns and send a request to buy your website today! 
+            Bla igjennom webdesigns for å finne din nettside og send inn forespørsel idag! 
             <a href="/digitalproducts" style={{color: "black", textDecoration: "underline"}}>
-             <br/> Take a look</a> 
+             <br/> Ta en titt</a> 
           </span>
         </motion.div>
       </div>
@@ -87,7 +87,7 @@ const letterAni = {
               duration: 1,
               delay: 1.8,
             }}>
-            In need
+            Behov for 
           </motion.span>
           <motion.span
             initial={{ opacity: 0 }}
@@ -97,7 +97,7 @@ const letterAni = {
               duration: 1,
               delay: 1.8,
             }}>
-            for a website?
+            en nettside?
           </motion.span>
         </motion.div>
         <AnimatedLetters title={title} />

@@ -5,7 +5,7 @@ import Service from "./Service";
 function DigitalProducts() {
     return (
         <>
-            <h1>WEBSITE PROTOTYPES</h1>
+            <h1>WEBSIDE DESIGNS</h1>
             <div className='borderline'></div>
             <br />
             <ProductCard />
