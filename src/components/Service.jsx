@@ -64,7 +64,6 @@ function Service() {
                     </p>
                     <br/>
                     <p style={{textDecoration: "underline",}}>Pris 1499 - 2499 kr</p>
-                   <br/>
                    </div>
                    <div className="service-text">
                     <h4>Business nettside</h4>
@@ -77,10 +76,7 @@ function Service() {
                         Dette er også en fin måte å markedsføre sin foretnings identitet for å øke kundegruppen og veksten 
                         i selskapet. </p>
                     <br/>
-                    <br/>
-                    <br/>
                     <p style={{textDecoration: "underline",}}>Pris 2099 - 5099 kr</p>
-                   <br/>
                 </div>
                    <div className="service-text">
                     <h4>Egen utviklet nettside</h4>
@@ -97,7 +93,6 @@ function Service() {
                     </p>
                     <br/>
                     <p style={{textDecoration: "underline",}}>Pris 3099 - 9999 kr</p>
-                   <br/>
                 </div>
             </div>
         </>
