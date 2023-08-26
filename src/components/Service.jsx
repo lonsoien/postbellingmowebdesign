@@ -1,3 +1,5 @@
+import icon from "../images/top64.png"; 
+
 function Service() {
     return (
         <>
@@ -95,6 +97,16 @@ function Service() {
                     <p style={{textDecoration: "underline",}}>Pris 3099 - 9999 kr</p>
                 </div>
             </div>
+            <div className="container-animation">
+                <div className="select-button">
+                    <a href="/designs">TO
+                    <i><img src={icon} alt="arrow" style={{width: "32px", margin: "2px"}}>
+                      </img> </i>TOP</a>
+                </div>
+            </div>
+            <br />
+            <br />
+            <br />
         </>
     )
 }
