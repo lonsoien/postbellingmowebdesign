@@ -1,4 +1,5 @@
-import huldra from "../images/huldrblog-nett.png"; 
+
+import ui from "../images/UI - colordesign.jpeg";
 import icon from "../images/icon.png"; 
 
 function ProductCard() {
@@ -6,14 +7,14 @@ function ProductCard() {
     <>
       <div className="container-animation">
         <div className="card-product">
-          <img alt="webdesign product" src={huldra} className="web-image"></img>
+          <img alt="webdesign product" src={ui} className="web-image"></img>
           <div className="view-button">
             <a href="https://huldrablog.netlify.app">VIEW</a>
             <p>Blog Layout</p>
           </div>
         </div>
         <div className="card-product">
-          <img alt="webdesign product" src={huldra} className="web-image"></img>
+          <img alt="webdesign product" src={ui} className="web-image"></img>
           <div className="view-button">
             <a href="/digitalproducts">VIEW</a>
             <p>Digital Portfolio</p>
@@ -22,14 +23,14 @@ function ProductCard() {
       </div>
       <div className="container-animation">
         <div className="card-product">
-          <img alt="webdesign product" src={huldra} className="web-image"></img>
+          <img alt="webdesign product" src={ui} className="web-image"></img>
           <div className="view-button">
             <a href="/digitalproducts">VIEW</a>
             <p>Business webside</p>
           </div>
         </div>
         <div className="card-product">
-          <img alt="webdesign product" src={huldra} className="web-image"></img>
+          <img alt="webdesign product" src={ui} className="web-image"></img>
           <div className="view-button">
             <a href="/digitalproducts">VIEW</a>
             <p>Egen utviklet webside</p>
