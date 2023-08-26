@@ -17,6 +17,7 @@ function About() {
           </div>
                 <div className="service-text">
                     <h4>Welcome to Bellingmo Webdesign</h4>
+                    <br/>
                     <p>My name is Louise Bellingmo and I am a freelance Frontend Developer living in Oslo, Norway.</p>
                     <p>I work with different web-projects and development, mainly webdesigns.
                         If you are looking for a new funcky and functional website for your small business you have come to the right place!
