@@ -21,7 +21,7 @@ export default function Business() {
                 </div>
                 <div className="layout-text">
                 <div className="blog-text">
-                    <h4>Blog Layout Example</h4>
+                    <h4>Business Layout Name</h4>
                     <br/>
                     <p>
                         Blog og Portfolio nettsidene er kodet og integrert backend med Sanity.ios, som er som et headless CMS.
@@ -32,7 +32,7 @@ export default function Business() {
                     </p>
                 </div>
                 <div className="blog-text">
-                    <h4>Blog Layout Example</h4>
+                    <h4>Business Example</h4>
                     <br/>
                     <p>
                         Blog og Portfolio nettsidene er kodet og integrert backend med Sanity.ios, som er som et headless CMS.
