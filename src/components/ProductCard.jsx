@@ -31,8 +31,8 @@ function ProductCard() {
         <div className="card-product">
           <img alt="webdesign product" src={ui} className="web-image"></img>
           <div className="view-button">
-            <a href="/digitalproducts">VIEW</a>
-            <p>X Nettside</p>
+            <a href="/websites">VIEW</a>
+            <p>Ny Nettside</p>
           </div>
         </div>
       </div>

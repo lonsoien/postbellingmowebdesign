@@ -5,7 +5,7 @@ import bloglayout2 from "../images/blog-layout2.png";
 export default function Blogs() {
     return (
         <>
-        <h1>BLOGS</h1>
+        <h1>BLOGG</h1>
             <div className='borderline'></div>
             <br />
             <br/>
