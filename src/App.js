@@ -11,7 +11,8 @@ import About from './components/About';
 import Menu from './components/Menu'; 
 import Footer from './components/Footer'; 
 import Blogs from './components/Blogs';
-import Business from './components/Blogs';
+import Business from './components/Business';
+import Portfolio from './components/Portfolio';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/blogs" element={<Blogs />} />
           <Route path="/business" element={<Business />} />
+          <Route path="/portfolio" element={<Portfolio />} />
           <Route path="*" element={<Home />} />
           </Routes>
           <Footer />

@@ -12,7 +12,7 @@ function Footer() {
                     <div className="links">
                         <a href="/digitalproducts">DESIGNS</a>
                         <a href="/">HOME</a>
-                        <a href="/digitalproducts">SERVICES</a>
+                        <a href="/about">ABOUT</a>
                     </div>
                     <div className="adress">
                         <p>BELLINGMO WEBDESIGN</p>

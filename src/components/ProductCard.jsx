@@ -15,7 +15,7 @@ function ProductCard() {
         <div className="card-product">
           <img alt="webdesign product" src={ui} className="web-image"></img>
           <div className="view-button">
-            <a href="/digitalproducts">VIEW</a>
+            <a href="/portfolio">VIEW</a>
             <p>Portfolio</p>
           </div>
         </div>
