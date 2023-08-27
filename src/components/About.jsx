@@ -15,7 +15,7 @@ function About() {
         <div className="card-about">
           <img alt="about bellingmowebdesign" src={program} className="about-image"></img>
           </div>
-                <div className="service-text">
+                <div className="about-text">
                     <h4>Welcome to Bellingmo Webdesign</h4>
                     <br/>
                     <p>My name is Louise Bellingmo and I am a freelance Frontend Developer living in Oslo, Norway.</p>

@@ -8,7 +8,7 @@ function ProductCard() {
         <div className="card-product">
           <img alt="webdesign product" src={ui} className="web-image"></img>
           <div className="view-button">
-            <a href="https://huldrablog.netlify.app">VIEW</a>
+            <a href="/blogs">VIEW</a>
             <p>Blogg</p>
           </div>
         </div>

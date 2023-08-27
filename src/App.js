@@ -10,6 +10,7 @@ import DigitalProducts from './components/DigitalProducts';
 import About from './components/About'; 
 import Menu from './components/Menu'; 
 import Footer from './components/Footer'; 
+import Blogs from './components/Blogs';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path="/" exact element={<Home />} />
           <Route path="/digitalproducts" element={<DigitalProducts />} />
           <Route path="/about" element={<About />} />
+          <Route path="/blogs" element={<Blogs />} />
           <Route path="*" element={<Home />} />
           </Routes>
           <Footer />
