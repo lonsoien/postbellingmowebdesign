@@ -8,7 +8,7 @@ function DigitalProducts() {
             <h1>WEBSIDE DESIGNS</h1>
             <div className='borderline'></div>
             <br />
-            <ProductCard />
+            <ProductCard/>
             <br />
             <Service />
         </>

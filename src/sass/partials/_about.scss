@@ -9,7 +9,6 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    z-index: 1;
 }
 
 .card-about {
@@ -37,5 +36,14 @@
     color: white;
     max-width: 500px;
     padding-left: 15px;
-    font-size: 15px;
+}
+
+@media (max-width: "1000px") {
+    .about-text {
+        max-width: 400px;
+     }
+
+     .about-text p {
+        font-size: 12px;
+     }
 }
