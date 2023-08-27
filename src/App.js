@@ -13,6 +13,7 @@ import Footer from './components/Footer';
 import Blogs from './components/Blogs';
 import Business from './components/Business';
 import Portfolio from './components/Portfolio';
+import Websites from './components/Websites';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
           <Route path="/blogs" element={<Blogs />} />
           <Route path="/business" element={<Business />} />
           <Route path="/portfolio" element={<Portfolio />} />
+          <Route path="/websites" element={<Websites />} />
           <Route path="*" element={<Home />} />
           </Routes>
           <Footer />
