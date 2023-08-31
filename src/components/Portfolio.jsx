@@ -1,5 +1,8 @@
 
-import blvck from "../images/Blvck Group portfolio-xs.jpg";
+import blvck from "../images/Blvck Group portfolio - xs.jpg";
+import black from "../images/blvck home portfolio.png";
+import black2 from "../images/blvck site portfolio.png";
+import icon from "../images/icon.png"; 
 
 export default function Portfolio() {
     return (
@@ -28,13 +31,23 @@ export default function Portfolio() {
                 Det fine med headless CMS er at om du ønsker å fornye nettsiden, har man lagret all content på en server i dette 
                 tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
                 </p>
+                <br/>
+                <h3>Live Link:</h3>
+                <br/>
+                <div className="livelink">
+                    <a href="/#">Blackandwhite.portfolio.bellingmowebdesign
+                        <img src={icon} alt="arrow" style={{width: "32px", margin: "2px"}}></img> 
+                    </a>
+                </div>
              </div>
              </div>
             <div className='borderline'></div>
             <br />
             <br/>
             <div className="layout-box">
-                <img className="blog-img" alt="black and white portfolio" src={blvck}></img>
+                    <img className="portfolio-img" alt="blog example version 1" src={black}></img>
+                    <img className="portfolio-img" alt="blog example version 3" src={black2}></img>
+               
                 <div className="portfolio-text">
                 <h4>Portfolio Layout Name</h4>
                 <br/>
@@ -53,6 +66,12 @@ export default function Portfolio() {
                 Det fine med headless CMS er at om du ønsker å fornye nettsiden, har man lagret all content på en server i dette 
                 tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
                 </p>
+                <br/>
+                <h3>Live Link:</h3>
+                <br/>
+                <div className="links">
+                <a href="/#">Blackandwhite.portfolio.bellingmowebdesign</a>
+                </div>
              </div>
              </div>
             <br/>
