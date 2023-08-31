@@ -1,16 +1,21 @@
 
 .layout-box {
     display: flex;
-    position: relative;
-    text-align: center;
+    margin-left: 65px;
+ //   position: relative;
 }
 
 .blog-img {
-  width: 80%;
-  height: 90%;
+  width: 26%;
   box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.6);
   background: rgba(255, 255, 255, 0.1);
   border-radius: 15px;
+  margin: 20px;
+}
+
+.portfolio-text {
+    max-width: 500px;
+    margin: 20px;
 }
 
 .layout-text {

@@ -1,6 +1,7 @@
 
 import bloglayout from "../images/blog-layout.png";
 import bloglayout2 from "../images/blog-layout2.png";
+import blvck from "../images/blvck home portfolio.png";
 
 export default function Blogs() {
     return (
@@ -11,7 +12,7 @@ export default function Blogs() {
             <br/>
             <div className="layout-box">
                 <div>
-                    <img className="blog-img" alt="blog example version 1" src={bloglayout}></img>
+                    <img className="blog-img" alt="blog example version 1" src={blvck}></img>
                     </div>
                     <div>
                     <img className="blog-img" alt="blog example version 2" src={bloglayout}></img>

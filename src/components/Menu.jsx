@@ -5,7 +5,7 @@ function Menu() {
     return (
         <>
         <nav>
-            <div className="logo">
+            <div id="id_top" className="logo">
             <a href="/home"><img alt='bellingmo webdesign logo' src={logo}></img></a>
             </div>
             <label>
