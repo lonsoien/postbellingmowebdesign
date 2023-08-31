@@ -30,7 +30,7 @@
     color: white;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
     .layout-box {
         display: flex;
         flex-direction: column;
@@ -38,5 +38,9 @@
     .layout-text {
         display: flex;
         flex-direction: column;
+    }
+
+    .blog-img {
+        width: 70%;
     }
 }
