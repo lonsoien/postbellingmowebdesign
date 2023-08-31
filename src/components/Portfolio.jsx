@@ -32,7 +32,7 @@ export default function Portfolio() {
                 tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
                 </p>
                 <br/>
-                <h3>Live Link:</h3>
+                <h3>Live Demo:</h3>
                 <br/>
                 <div className="livelink">
                     <a href="/#">Blackandwhite.portfolio.bellingmowebdesign
@@ -67,10 +67,12 @@ export default function Portfolio() {
                 tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
                 </p>
                 <br/>
-                <h3>Live Link:</h3>
+                <h3>Live Demo:</h3>
                 <br/>
-                <div className="links">
-                <a href="/#">Blackandwhite.portfolio.bellingmowebdesign</a>
+                <div className="livelink">
+                    <a href="/#">Blackandwhite.portfolio.bellingmowebdesign
+                        <img src={icon} alt="arrow" style={{width: "32px", margin: "2px"}}></img> 
+                    </a>
                 </div>
              </div>
              </div>
