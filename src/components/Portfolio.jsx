@@ -7,7 +7,7 @@ import back from "../images/icon-back.png";
 export default function Portfolio() {
     return (
         <>
-        <h1>PORTFOLIO</h1>
+        <h1>Get your Portfolio</h1>
             <div className='borderline'></div>
             <br />
             <br/>

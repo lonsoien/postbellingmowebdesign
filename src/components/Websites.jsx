@@ -5,7 +5,7 @@ import back from "../images/icon-back.png";
 export default function Websites() {
     return (
         <>
-        <h1>NY NETTSIDE</h1>
+        <h1>Create new website</h1>
             <div className='borderline'></div>
             <br />
             <br/>
@@ -88,16 +88,13 @@ export default function Websites() {
             <br />
             <div className="layout-box">
                 <div>
-                    <img className="website-img" alt="blog example version 1" src={bloglayout}></img>
+                    <img className="website-img" alt="blog example version 1" src={bloglayout2}></img>
                     </div>
                     <div>
                     <img className="website-img" alt="blog example version 2" src={bloglayout}></img>
                     </div>
                     <div>
                     <img className="website-img" alt="blog example version 3" src={bloglayout2}></img>
-                    </div>
-                    <div>
-                    <img className="website-img" alt="blog example version 2" src={bloglayout}></img>
                     </div>
                 </div>
             <br />

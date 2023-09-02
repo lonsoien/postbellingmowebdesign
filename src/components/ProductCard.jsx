@@ -8,7 +8,7 @@ function ProductCard() {
         <div className="card-product">
           <img alt="webdesign product" src={ui} className="web-image"></img>
           <div className="view-button">
-          <a href="/websites">NY SIDE</a>
+          <a href="/websites">NEW SITE</a>
           </div>
         </div>
         <div className="card-product">
@@ -20,7 +20,7 @@ function ProductCard() {
         <div className="card-product">
           <img alt="webdesign product" src={ui} className="web-image"></img>
           <div className="view-button">
-            <a href="/blogs" className="view">BLOGG</a>
+            <a href="/blogs" className="view">BLOG</a>
           </div>
         </div>
         <div className="card-product">

@@ -27,7 +27,7 @@ function Cards() {
                     </img>
                     <div className="content-animation">
                         <h2>WEBSITE</h2>
-                        <h3>WANT NEW WEBDESIGN</h3>
+                        <h3>CREATE WEBSITE</h3>
                         <div className="select-button">
                             <a href="/websites">SELECT</a>
                         </div>
