@@ -2,7 +2,6 @@
 .layout-box {
     display: flex;
     margin-left: 65px;
- //   position: relative;
 }
 
 .blog-img {
@@ -14,7 +13,7 @@
 }
 
 .portfolio-img {
-    width: 25%;
+    width: 50%;
     box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.6);
     background: rgba(255, 255, 255, 0.1);
     border-radius: 5px;
@@ -24,6 +23,12 @@
 .portfolio-text {
     max-width: 450px;
     margin: 20px;
+}
+
+.portfolio-text-white {
+    max-width: 450px;
+    margin: 20px;
+    color: white;
 }
 
 .layout-text {
@@ -42,13 +47,24 @@
     .layout-box {
         display: flex;
         flex-direction: column;
+        margin-left: 15px;
     }
     .layout-text {
         display: flex;
         flex-direction: column;
+        padding-left: 10px;
+    }
+
+    .portfolio-text {
+        margin: 8px;
     }
 
     .blog-img {
         width: 70%;
+    }
+
+    .portfolio-img {
+        width: 90%;
+        margin: 5px;
     }
 }

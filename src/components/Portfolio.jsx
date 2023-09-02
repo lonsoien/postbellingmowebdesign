@@ -11,7 +11,7 @@ export default function Portfolio() {
             <br />
             <br/>
             <div className="layout-box">
-                <img className="blog-img" alt="black and white portfolio" src={blvck}></img>
+                <img className="portfolio-img" alt="black and white portfolio" src={blvck}></img>
                 <div className="portfolio-text">
                 <h4>Black and White Gallery</h4>
                 <br/>
@@ -31,6 +31,7 @@ export default function Portfolio() {
                 tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
                 </p>
                 <br/>
+                <p>Pris: 1499,- </p>
                 <h3>Live Demo:</h3>
                 <br/>
                 <div className="livelink">
@@ -46,7 +47,7 @@ export default function Portfolio() {
             <br/>
             <div className="layout-box">
                 <img className="portfolio-img" alt="blog example version 1" src={black}></img>               
-                <div className="portfolio-text">
+                <div className="portfolio-text-white">
                 <h4>Portfolio Layout Name</h4>
                 <br/>
                 <p>
@@ -65,6 +66,7 @@ export default function Portfolio() {
                 tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
                 </p>
                 <br/>
+                <p>Pris: 1499,- </p>
                 <h3>Live Demo:</h3>
                 <br/>
                 <div className="livelink">

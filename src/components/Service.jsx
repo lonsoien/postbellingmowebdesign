@@ -4,7 +4,7 @@ function Service() {
     return (
         <> 
             <h1 style={{ color: "white" }}>SERVICES</h1>
-            <div id="id_top" className='borderline'></div>
+            <div className='borderline'></div>
 
             <div className="service">
                 <div className="service-text">
@@ -13,7 +13,6 @@ function Service() {
                         med en hosting service. Dette er i tillegg til prisen, og ligger alt mellom 99kr - 299kr 
                         pr år ut ifra hvilket type domene og hosting-service du bruker. Jeg foretrekker å bruke One.com. 
                        <p>Les mer om domene hos One.com </p>
-                       <a href="https://one.com" style={{textDecoration: "underline", color: "white"}}>HER.</a>
                     </p>
                     <br/>
                     <p>Det er også mulig å sende inn en forespørsel på å få utviklet "egen-nettside-fra-scratch".
@@ -62,7 +61,6 @@ function Service() {
                         Det fine med headless CMS er at om du ønsker å fornye nettsiden, har man lagret all content på en server i dette 
                         tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
                         Frontend kan endres uavgengig av content som er "postet" på nettsiden.  
-                        Les mer om Sanity <a href="https://www.sanity.io" style={{textDecoration: "underline", color: "white"}}>HER.</a>
                     </p>
                     <br/>
                     <p style={{textDecoration: "underline",}}>Pris 1499 - 2499 kr</p>
