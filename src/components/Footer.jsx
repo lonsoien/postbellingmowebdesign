@@ -7,6 +7,7 @@ function Footer() {
     return (
         <>
             <hr />
+            <br/>
             <footer>
                 <div>
                     <div className="links">

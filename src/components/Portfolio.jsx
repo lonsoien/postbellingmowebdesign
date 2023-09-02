@@ -1,7 +1,6 @@
 
 import blvck from "../images/Blvck Group portfolio - xs.jpg";
 import black from "../images/blvck home portfolio.png";
-import black2 from "../images/blvck site portfolio.png";
 import icon from "../images/icon.png"; 
 
 export default function Portfolio() {
@@ -14,7 +13,7 @@ export default function Portfolio() {
             <div className="layout-box">
                 <img className="blog-img" alt="black and white portfolio" src={blvck}></img>
                 <div className="portfolio-text">
-                <h4>Portfolio Layout Name</h4>
+                <h4>Black and White Gallery</h4>
                 <br/>
                 <p>
                 Blog og Portfolio nettsidene er kodet og integrert backend med Sanity.ios, som er som et headless CMS.
@@ -35,19 +34,18 @@ export default function Portfolio() {
                 <h3>Live Demo:</h3>
                 <br/>
                 <div className="livelink">
-                    <a href="/#">Blackandwhite.portfolio.bellingmowebdesign
-                        <img src={icon} alt="arrow" style={{width: "32px", margin: "2px"}}></img> 
+                <img src={icon} alt="arrow" style={{width: "32px", margin: "6px"}}></img> 
+                    <a href="/#">Gallery-portfolio.webdesign
                     </a>
                 </div>
              </div>
              </div>
+             <br/>
             <div className='borderline'></div>
             <br />
             <br/>
             <div className="layout-box">
-                    <img className="portfolio-img" alt="blog example version 1" src={black}></img>
-                    <img className="portfolio-img" alt="blog example version 3" src={black2}></img>
-               
+                <img className="portfolio-img" alt="blog example version 1" src={black}></img>               
                 <div className="portfolio-text">
                 <h4>Portfolio Layout Name</h4>
                 <br/>
@@ -70,8 +68,8 @@ export default function Portfolio() {
                 <h3>Live Demo:</h3>
                 <br/>
                 <div className="livelink">
-                    <a href="/#">Blackandwhite.portfolio.bellingmowebdesign
-                        <img src={icon} alt="arrow" style={{width: "32px", margin: "2px"}}></img> 
+                <img src={icon} alt="arrow" style={{width: "32px", margin: "6px"}}></img> 
+                    <a href="/#">Gallery-portfolio.webdesign
                     </a>
                 </div>
              </div>
