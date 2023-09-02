@@ -1,5 +1,6 @@
 import bloglayout from "../images/blog-layout.png";
 import bloglayout2 from "../images/blog-layout2.png";
+import back from "../images/icon-back.png";
 
 export default function Websites() {
     return (
@@ -9,7 +10,7 @@ export default function Websites() {
             <br />
             <br/>
                 <div className="layout-text">
-                <div className="blog-text">
+                <div className="portfolio-text">
                     <h4>Ny Nettside</h4>
                     <br/>
                     <p>
@@ -20,7 +21,7 @@ export default function Websites() {
                         tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
                     </p>
                 </div>
-                <div className="blog-text">
+                <div className="portfolio-text">
                     <h4>Ting å tenkte på</h4>
                     <br/>
                     <p>
@@ -31,7 +32,7 @@ export default function Websites() {
                         tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
                     </p>
                 </div>
-                <div className="blog-text">
+                <div className="portfolio-text">
                     <h4>Prosessen</h4>
                     <br/>
                     <p>
@@ -49,7 +50,7 @@ export default function Websites() {
             <br />
             <br />
             <div className="layout-text">
-                <div className="blog-text">
+                <div className="website-text">
                     <h4>Ny Nettside</h4>
                     <br/>
                     <p>
@@ -60,7 +61,7 @@ export default function Websites() {
                         tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
                     </p>
                 </div>
-                <div className="blog-text">
+                <div className="website-text">
                     <h4>Ting å tenkte på</h4>
                     <br/>
                     <p>
@@ -71,7 +72,7 @@ export default function Websites() {
                         tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
                     </p>
                 </div>
-                <div className="blog-text">
+                <div className="website-text">
                     <h4>Prosessen</h4>
                     <br/>
                     <p>
@@ -87,24 +88,26 @@ export default function Websites() {
             <br />
             <div className="layout-box">
                 <div>
-                    <img className="blog-img" alt="blog example version 1" src={bloglayout}></img>
+                    <img className="website-img" alt="blog example version 1" src={bloglayout}></img>
                     </div>
                     <div>
-                    <img className="blog-img" alt="blog example version 2" src={bloglayout}></img>
+                    <img className="website-img" alt="blog example version 2" src={bloglayout}></img>
                     </div>
                     <div>
-                    <img className="blog-img" alt="blog example version 3" src={bloglayout2}></img>
+                    <img className="website-img" alt="blog example version 3" src={bloglayout2}></img>
                     </div>
                     <div>
-                    <img className="blog-img" alt="blog example version 2" src={bloglayout}></img>
+                    <img className="website-img" alt="blog example version 2" src={bloglayout}></img>
                     </div>
                 </div>
             <br />
             <br/>
             <br />
             <div className="container-animation">
-                <div className="select-button">
-                    <a href="/digitalproducts">Back DESIGNS</a>
+            <div className="select-button">
+                    <a href="/digitalproducts">BACK
+                    <img src={back} alt="arrow" style={{width: "32px", margin: "2px"}}></img>
+                    </a>
                 </div>
             </div>
             <br/>

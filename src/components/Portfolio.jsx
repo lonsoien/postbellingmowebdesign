@@ -1,7 +1,8 @@
 
 import blvck from "../images/Blvck Group portfolio - xs.jpg";
 import black from "../images/blvck home portfolio.png";
-import icon from "../images/icon.png"; 
+import next from "../images/icon.png"; 
+import back from "../images/icon-back.png"; 
 
 export default function Portfolio() {
     return (
@@ -35,7 +36,7 @@ export default function Portfolio() {
                 <h3>Live Demo:</h3>
                 <br/>
                 <div className="livelink">
-                <img src={icon} alt="arrow" style={{width: "32px", margin: "6px"}}></img> 
+                <img src={next} alt="arrow" style={{width: "32px", margin: "6px"}}></img> 
                     <a href="/#">Gallery-portfolio.webdesign
                     </a>
                 </div>
@@ -70,7 +71,7 @@ export default function Portfolio() {
                 <h3>Live Demo:</h3>
                 <br/>
                 <div className="livelink">
-                <img src={icon} alt="arrow" style={{width: "32px", margin: "6px"}}></img> 
+                <img src={next} alt="arrow" style={{width: "32px", margin: "6px"}}></img> 
                     <a href="/#">Gallery-portfolio.webdesign
                     </a>
                 </div>
@@ -80,7 +81,9 @@ export default function Portfolio() {
             <br/>
             <div className="container-animation">
                 <div className="select-button">
-                    <a href="/digitalproducts">Designs Services</a>
+                    <a href="/digitalproducts">BACK
+                    <img src={back} alt="arrow" style={{width: "32px", margin: "2px"}}></img>
+                    </a>
                 </div>
             </div>
             <br/>

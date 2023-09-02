@@ -1,4 +1,4 @@
-import icon from "../images/top64.png"; 
+import top from "../images/top64.png"; 
 
 function Service() {
     return (
@@ -97,9 +97,8 @@ function Service() {
             </div>
             <div className="container-animation">
                 <div className="select-button">
-                    <a href="#id_top">TO
-                    <i><img src={icon} alt="arrow" style={{width: "32px", margin: "2px"}}>
-                      </img> </i>TOP</a>
+                    <a href="#id_top">TOP
+                        <img src={top} alt="arrow" style={{width: "32px", margin: "2px"}}></img></a>
                 </div>
             </div>
             <br />
