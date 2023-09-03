@@ -1,5 +1,6 @@
 import ui from "../images/UI - colordesign.jpeg";
-import blvck from "../images/Iphone.png";
+// import blvck from "../images/Iphone.png";
+import iphone from "../images/iphone gallery.png";
 
 function ProductCard() {
   return (
@@ -12,7 +13,7 @@ function ProductCard() {
           </div>
         </div>
         <div className="card-product">
-          <img alt="webdesign product" src={blvck} className="web-image"></img>
+          <img alt="webdesign product" src={iphone} className="web-image"></img>
           <div className="view-button">
             <a href="/portfolio">PORTFOLIO</a>
           </div>
