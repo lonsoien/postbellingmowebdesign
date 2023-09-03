@@ -37,7 +37,7 @@ export default function Portfolio() {
                 <br/>
                 <div className="livelink">
                 <img src={next} alt="arrow" style={{width: "32px", margin: "6px"}}></img> 
-                    <a href="/#">Gallery-portfolio.webdesign
+                    <a href="/business">Gallery-portfolio.webdesign
                     </a>
                 </div>
              </div>
@@ -72,7 +72,7 @@ export default function Portfolio() {
                 <br/>
                 <div className="livelink">
                 <img src={next} alt="arrow" style={{width: "32px", margin: "6px"}}></img> 
-                    <a href="/#">Gallery-portfolio.webdesign
+                    <a href="/business">Gallery-portfolio.webdesign
                     </a>
                 </div>
              </div>
