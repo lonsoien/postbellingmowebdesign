@@ -1,6 +1,6 @@
 import ui from "../images/UI - colordesign.jpeg";
 // import blvck from "../images/Iphone.png";
-import iphone from "../images/iphone gallery.png";
+import iphone from "../images/iphone blue gallery.png";
 
 function ProductCard() {
   return (
