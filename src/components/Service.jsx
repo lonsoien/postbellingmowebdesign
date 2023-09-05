@@ -9,44 +9,53 @@ function Service() {
             <div className="service">
                 <div className="service-text">
                     <h4>Kjøp av nettside</h4>
-                    <p>Alle nett-prototypene er ferdig kodet, lagret i Github og klare for å settes opp LIVE online
-                        med en hosting service. Dette er i tillegg til prisen, og ligger alt mellom 99kr - 299kr 
-                        pr år ut ifra hvilket type domene og hosting-service du bruker. Jeg foretrekker å bruke One.com. 
-                       <p>Les mer om domene hos One.com </p>
-                    </p>
                     <br/>
-                    <p>Det er også mulig å sende inn en forespørsel på å få utviklet "egen-nettside-fra-scratch".
-                        Hvilke funkskjoner, viruelt design og oppsett vil avgjøre størrelsen og prisen på prosjektet. 
-                        Det vil være en designer-prosess før selve utviklingen og kodingen av nettsiden. 
-                        Dette vil ta tid (3 - 8 uker), ut ifra hvor avansert nettsiden skal være. 
+                    <p>
+                    Det å kjøpe en ny nettside kan være til tider vanskelig og frustrerende. 
+                    Hvilken type nettside trenger jeg for min bedrift, hvilket budsjett har jeg? 
+                    Eller er du privat og ønsker en alternativ løsning for å syns online, men til en
+                    rimelig pris? 
+                    Kanskje har du mange følgere på ulike SoMe-kanaler, men er i behov for å profilere deg også med en nettløsning? </p>
+                    <br/>
+                    <p>
+                    Det finnes mange gode enkle løsninger som gjør jobben for deg med å sette opp egen nettside som f.eks Wordpress, WIX, Webnode ect. 
+                    Dette gjør deg nødvendigvis ikke til en digital designer, som kan triksene med å lage en visuell attraktiv og appellerende nettside. 
+                    <br/>
+                    Her på bellingmowebdesign kan du få et solid moderne webdesign, til en god pris og tilpasses deg og dine ønsker
+                    uten å måtte gå veien til de større bedriftene, som raskt kan koste deg dyrt.
                     </p>
                     <br/>
                 </div>
                 <div className="service-text">
                     <h4>Hvordan kjøper jeg nettside?</h4>
+                    <br/>
                     <p>
-                    Send inn forespørsel på postbellingmo@gmail.com. Skriv hvilken type layout du ønsker å kjøpe.
-                    Om du ønsker div endringer så gjerne presiser det i mailen. Alle layout vil ha sine begrensninger 
-                    for hva som kan endres, ut ifra funskjonalitet og type layout. Dette kan avtales på mail. Evt ekstra kostnader må påregnes. 
+                    Send inn en uforpliktende forespørsel på 
+                    <p style={{textDecoration: "underline",}}>postbellingmo@gmail.com. </p>
+                    <br/>
+                    Skriv gjerne litt om deg og/eller din bedrift, og forklar gjerne hva du ønsker på nettsiden. Har du en «identitet» eller «brand» som du vil uttrykke på nettsiden, isåfall forklar. «Med identitet så menes det formidlingen nettsiden skal ha og type innhold som gir informasjon til de besøkende på nettsiden din.» 
+                    Andre spørsmål og henvendelser er også velkomne.
                 </p>
                 <br/>
                 <p>
-                Ønske om endringer, legge til bilder og annet materiel avtales i ettertid når du har 
-                sendt forespørsel om hvilken layout som er ønskelig å kjøpe. 
+                Bilder, content og div materiel til nettsiden avtales i ettertid når du har 
+                sendt forespørsel om hvilken type nettside som du ønsker å kjøpe. 
                 Forespørsel vil bli besvart innen 1-3 dager. 
                 </p>
                 </div>
                 <div className="service-text">
                     <h4>Type nettsider til Salg:</h4>
                     <br/>
-                    <li><p>Digital CV</p></li>
-                    <li><p> Blog </p></li>
-                    <li><p> Portfolio </p></li>
+                    <li><p>Egen utviklet nettside (ingen generell sjanger)</p></li>
                     <li><p> Business </p></li>
-                    <li><p> Egen utviklet nettside</p></li>
+                    <li><p> Portfolio </p></li>
+                    <li><p> Blog </p></li>
+                    <li><p>Digital CV</p></li>
                     <br/>
                     <p>Alle nettsider er reponsive og utviklet for å tilpasses alle digitale skjermer som web (pc), 
                         tablets (nettbrett) og mobil (android/apple).</p>
+                        <p>Nettsidene er kodet med React + Sanity.ios som headless CMS. Man vil få egen url  
+                            til eget Studio Dashboard for å poste-innlegg/material på nettsiden.</p>
                         <p>Alle nettsider følger rettningslinjene for WCAG. Nettsidene inneholder metatags for
                          search engines som f.eks Google.</p>
                 </div>
@@ -67,6 +76,7 @@ function Service() {
                    </div>
                    <div className="service-text">
                     <h4>Business nettside</h4>
+                    <br/>
                     <p>
                         En business nettside passer best for de med en mindre bedrift som ønsker å markedsføre, informere og 
                         navigere sin foretning på nett, slik at man blir lett tilgjengelig. 
@@ -80,6 +90,7 @@ function Service() {
                 </div>
                    <div className="service-text">
                     <h4>Egen utviklet nettside</h4>
+                    <br/>
                     <p>
                         Du kan også sende inn en forespørsel om få egen utviklet nettside etter ditt ønske.
                         Det vi gjør først er å planlegge og avtale aspekter som design, landingssider, div funksjonalitet,
