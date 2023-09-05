@@ -1,8 +1,10 @@
-
-import blvck from "../images/Blvck Group portfolio - xs.jpg";
+// import events from "../images/black events portfolio.png";
 import black from "../images/blvck home portfolio.png";
 import next from "../images/icon.png"; 
 import back from "../images/icon-back.png"; 
+import home from "../images/portfolio rounded.png";
+// import gallery from "../images/gallery rounded.png";
+
 
 export default function Portfolio() {
     return (
@@ -12,7 +14,8 @@ export default function Portfolio() {
             <br />
             <br/>
             <div className="layout-box">
-                <img className="portfolio-img" alt="black and white portfolio" src={blvck}></img>
+               
+                <img className="portfolio-img" alt="black and white portfolio" src={home}></img>
                 <div className="portfolio-text">
                 <h4>Black and White Gallery</h4>
                 <br/>

@@ -1,5 +1,4 @@
 
-import blvck from "../images/Blvck Group portfolio - xs.jpg";
 import black from "../images/blvck home portfolio.png";
 import next from "../images/icon.png"; 
 import back from "../images/icon-back.png";
@@ -12,7 +11,7 @@ export default function Portfolio() {
             <br />
             <br/>
             <div className="layout-box">
-                <img className="portfolio-img" alt="black and white portfolio" src={blvck}></img>
+                <img className="portfolio-img" alt="black and white portfolio" src={black}></img>
                 <div className="portfolio-text">
                 <h4>Business layout name</h4>
                 <br/>
