@@ -72,7 +72,7 @@ function Service() {
                         Frontend kan endres uavgengig av content som er "postet" på nettsiden.  
                     </p>
                     <br/>
-                    <p style={{textDecoration: "underline",}}>Pris 1499 - 2499 kr</p>
+                    <p style={{textDecoration: "underline",}}>Start Pris fra 1899,- kr</p>
                    </div>
                    <div className="service-text">
                     <h4>Business nettside</h4>
@@ -86,7 +86,7 @@ function Service() {
                         Dette er også en fin måte å markedsføre sin foretnings identitet for å øke kundegruppen og veksten 
                         i selskapet. </p>
                     <br/>
-                    <p style={{textDecoration: "underline",}}>Pris 2099 - 5099 kr</p>
+                    <p style={{textDecoration: "underline",}}>Start Pris fra 3499,- kr</p>
                 </div>
                    <div className="service-text">
                     <h4>Egen utviklet nettside</h4>
@@ -94,8 +94,9 @@ function Service() {
                     <p>
                         Du kan også sende inn en forespørsel om få egen utviklet nettside etter ditt ønske.
                         Det vi gjør først er å planlegge og avtale aspekter som design, landingssider, div funksjonalitet,
-                        innhold størrelse, fonts m.m. 
+                        innhold størrelse, fonts m.m. </p>
                         <br/>
+                        <p>
                         Når vi er enige om identiteten og layouten starter selve designer prossesen. 
                         Dette kan ta alt fra 1-4 uker å utvikle prototypen. Her vil man ha muligheter for 
                         å delta i designer fasen for å gi feedback. Når man er fornøyd med resultatet går
@@ -103,7 +104,7 @@ function Service() {
                         Dette tar også tid alt fra 2-4 uker. 
                     </p>
                     <br/>
-                    <p style={{textDecoration: "underline",}}>Pris 3099 - 9999 kr</p>
+                    <p style={{textDecoration: "underline",}}>Start Pris fra 3499,- kr</p>
                 </div>
             </div>
             <div className="container-animation">
