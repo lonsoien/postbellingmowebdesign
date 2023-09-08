@@ -1,8 +1,7 @@
-// import events from "../images/black events portfolio.png";
 import next from "../images/icon.png"; 
 import back from "../images/icon-back.png"; 
 import home from "../images/portfolio rounded.png";
-// import gallery from "../images/gallery rounded.png";
+import illustrate from "../images/template.jpg";
 
 
 export default function Portfolio() {
@@ -13,28 +12,48 @@ export default function Portfolio() {
             <br />
             <br/>
             <div className="layout-box">
+            <img className="website-img" alt="black and white portfolio" src={illustrate}></img>
+            <br/>
                 <div className="portfolio-text">
-                <h4>Listed available webdesigns:</h4>
                 <br/>
-                <p>Black and White Gallery Portfolio website is under construction and are soon available for
-                    purchase.
-                </p>
-                <br/>
-                <p>Webdesigns like unique Blogs, Portfolio´s or Business-webpage solutions will be put here for 
-                    immediate sale!</p>
+                <h4>Webdesigns like unique Blogs, Portfolio´s or Business-webpage solutions will be put here for 
+                    immediate sale!</h4>
                 <br/>
                 <p>These are finshed designs with implemented functionalities ready to be deployed online. </p>
                 <br/>
                 <p>After purchase the site will be set up with a hosting and a domain by your choosing. 
-                    Images and content for this layout is just a demo for display and not for sale. 
+                    Images and content on the layout´s is just a demo for display and not for sale. 
                     After a request, this will be added to the design to fit your needs.
                 </p>
                 <br/>
                 <p>A live link will be available for each protype that are available to purchase.</p>
                 <br/>
-                <p>If no available design is listed here send a request to postbellingmo@gmail.com to create 
-                    your own website now.
+                <p>If no available design is listed here or want a different webdesign, 
+                please send a request: <h3>postbellingmo@gmail.com</h3></p>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <div className='borderline'></div>
+                <br/>
+             </div>
+             </div>
+            <br/>
+            <div className="layout-box">
+                <div className="portfolio-text-white">
+                <br/>
+                <h4>Black and White Gallery portfolio is under construction and are soon available for
+                    purchase.
+                </h4>
+                <br/>
+                <p>This webdesign is a gallery with focus on display images. Further description will be povided
+                    when the construction is finished. 
                 </p>
+                <br/>
+                <p>Reminder that the images and content is a demo for display and not for sale.
+                </p>
+                <br/>
                 <br/>
                 <br/>
                 <p>Price: 1999,- </p>
@@ -49,6 +68,10 @@ export default function Portfolio() {
              <img className="portfolio-img" alt="black and white portfolio" src={home}></img>
              </div>
             <br/>
+            <br/>
+            <br/>
+
+
             <br/>
             <br/>
             <div className="container-animation">

@@ -33,16 +33,25 @@
 }
 
 .about-text {
-    max-width: 500px;
+    max-width: 550px;
     padding-left: 15px;
 }
 
-@media (max-width: "1000px") {
+@media (max-width: "900px") {
     .about-text {
-        max-width: 400px;
+        max-width: 440px;
+        padding-left: 1px;
      }
+    .card-about {
+        width: 300px;
+        height: 300px;
+    }
+}
 
-     .about-text p {
+@media (max-width: "400px") {
+    .about-text p {
         font-size: 12px;
+        padding-left: 1px;
+        max-width: 300px;
      }
 }
