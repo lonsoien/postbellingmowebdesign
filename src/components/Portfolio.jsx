@@ -16,21 +16,29 @@ export default function Portfolio() {
                 <div className="portfolio-text">
                 <h4>Black and White Gallery</h4>
                 <br/>
-                <p>
-                Blog og Portfolio nettsidene er kodet og integrert backend med Sanity.ios, som er som et headless CMS.
-                Med en blog eller en portfolio løsning kan man da "poste" egne innlegg på siden som f.eks artikler i en blog,
-                og bilder i en portfolio. Her kan man selv kontrollere innholdet, ved å legge til eller fjerne innlegg/post. 
-                Det fine med headless CMS er at om du ønsker å fornye nettsiden, har man lagret all content på en server i dette 
-                tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
+                <p>Black and White Gallery website is under construction and are soon available for
+                    purchase.
+                </p>
+                <br/>
+                <p>Portfolio webdesigns will be put here for immediate sale!</p>
+                <br/>
+                <p>These are finshed designs ready to be deployed online as soon 
+                    they are set up with a hosting and a domain.
+                </p>
+                <br/>
+                <p>A live link will be available for each protype that are available to purchase.</p>
+                <br/>
+                <p>If no available design is listed here send a request to postbellingmo@gmail.com to create 
+                    your own website now.
                 </p>
                 <br/>
                 <br/>
-                <p>Pris: 1999,- </p>
+                <p>Pris: 0,- </p>
                 <h3>Live Demo:</h3>
                 <br/>
                 <div className="livelink">
                 <img src={next} alt="arrow" style={{width: "32px", margin: "6px"}}></img> 
-                    <a href="/portfolio">Gallery-portfolio.webdesign
+                    <a href="/portfolio">Soon-available.webdesign
                     </a>
                 </div>
              </div>

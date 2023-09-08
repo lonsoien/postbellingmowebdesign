@@ -63,7 +63,7 @@ const letterAni = {
           className='row-col'>
           <span className='row-message'> 
             Send a request today and lets discuss your next webdesign 
-            <a href="/digitalproducts" style={{color: "black", textDecoration: "underline"}}>
+            <a href="/websites" style={{color: "black", textDecoration: "underline"}}>
              <br/>Take a look</a> 
           </span>
         </motion.div>

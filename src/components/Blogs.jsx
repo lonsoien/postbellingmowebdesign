@@ -11,18 +11,21 @@ export default function Blogs() {
             <br/>
             <div className="layout-box">
                 <div className="portfolio-text">
-                <h4>Blog layout for sale</h4>
+                <h4>Blog for sale</h4>
                 <br/>
-                <p>
-                Blog og Portfolio nettsidene er kodet og integrert backend med Sanity.ios, som er som et headless CMS.
-                Med en blog eller en portfolio løsning kan man da "poste" egne innlegg på siden som f.eks artikler i en blog,
-                og bilder i en portfolio. Her kan man selv kontrollere innholdet, ved å legge til eller fjerne innlegg/post. 
-                Det fine med headless CMS er at om du ønsker å fornye nettsiden, har man lagret all content på en server i dette 
-                tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
+                <p>Blog designs will be put here for immediate sale!</p>
+                <br/>
+                <p>These are finshed designs ready to be deployed online as soon 
+                    they are set up with a hosting and a domain.
                 </p>
                 <br/>
+                <p>A live link will be available for each protype that are available to purchase.</p>
                 <br/>
-                <p>Pris: 1999,- </p>
+                <p>If no available design is listed here send a request to postbellingmo@gmail.com to create 
+                    your own website now.
+                </p>
+                <br/>
+                <p>Price: 0,- </p>
                 <h3>Live Demo:</h3>
                 <br/>
                 <div className="livelink">
