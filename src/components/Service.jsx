@@ -98,10 +98,10 @@ function Service() {
                         <br/>
                         <p>
                         Når vi er enige om identiteten og layouten starter selve designer prossesen. 
-                        Dette kan ta alt fra 1-4 uker å utvikle prototypen. Her vil man ha muligheter for 
-                        å delta i designer fasen for å gi feedback. Når man er fornøyd med resultatet går
-                        man over til kodingen/utviklingen av selve nettsiden.
-                        Dette tar også tid alt fra 2-4 uker. 
+                        Dette kan ta alt fra 1-3 uker å utvikle prototypen, basert på størrelsen på prosjektet. 
+                        Her vil man ha muligheter for å delta i designer fasen for å gi feedback. Når man er fornøyd 
+                        med resultatet går man over til kodingen/utviklingen av selve nettsiden.
+                        Dette tar også tid alt fra 1-3 uker. 
                     </p>
                     <br/>
                     <p style={{textDecoration: "underline",}}>Start Pris fra 3499,- kr</p>
