@@ -19,20 +19,27 @@ function About() {
                     <h4>Welcome to Bellingmo Webdesign</h4>
                     <br/>
                     <p>My name is Louise Bellingmo and I am a freelance Frontend Developer living in Oslo, Norway.</p>
-                    <p>I work with different web-projects and development, mainly webdesigns.
-                        If you are looking for a new funcky and functional website for your small business you have come to the right place!
-                    </p>
-                    <p>I also develop blog solutions and portfolios if you want to share and express yourself online.</p>
+                    <p>I work with different web-projects and development, mainly webdesigns. If you are looking for a 
+                        new funcky and functional website for your small business, or personal use you have come to 
+                        the right place!</p>
+                    <br/>
+                        <p>My goal is to design, develop and deploy web-solutions for a smaller group of people 
+                            who maybe are just starting of their business, or want to create a profile online.  
+                        </p>
+                    <br/>
+                    <p>I design and develop blog solutions and portfolios if you want to share and express yourself online.</p>
                     <p>
-                        I create prototype websites for direct sales, as shown on the digital product site.
-                         Here you can choose your type of website that suits you! The prototypes are already coded and stored in a Github repository.
-                         You can easily send me request for personal changes to the design or functionality to fit your needs for your special website.  
+                         Here you can choose your type of website that suits you! The prototypes I design are all coded and stored in a Github repository.
+                         You can easily send me request for a web solution that fit your needs for your special website.  
                     </p>
                     <br/>
                     <p>
-                    I use framework and libary like React with Sanity.ios, Framer motion and SASS for styling (SCSS). All code are kept in a
-                    Github repo, that you will get access to. 
+                    I use a Javascript-libary React, and a built in headless CMS solution Sanity.ios. Sanity is a regular headless CMS thats has a React-based 
+                    editor, the Sanity Studio, wich is easy to configure and customize.
+                    For styling I use libary like Framer motion and SASS(SCSS/CSS). All code are kept in a
+                    Github repo, that you will get access to.
                     </p>
+                    <p>Any technical questions or want to know more? Please contact on postbellingmo@gmail.com</p>
                 </div>
             </div>
             </div>
