@@ -1,5 +1,4 @@
 import ui from "../images/UI - colordesign.jpeg";
-// import blvck from "../images/Iphone.png";
 import iphone from "../images/iphone blue gallery.png";
 
 function ProductCard() {
@@ -15,19 +14,7 @@ function ProductCard() {
         <div className="card-product">
           <img alt="webdesign product" src={iphone} className="web-image"></img>
           <div className="view-button">
-            <a href="/portfolio">PORTFOLIO</a>
-          </div>
-        </div>
-        <div className="card-product">
-          <img alt="webdesign product" src={ui} className="web-image"></img>
-          <div className="view-button">
-            <a href="/blogs" className="view">BLOG</a>
-          </div>
-        </div>
-        <div className="card-product">
-          <img alt="webdesign product" src={ui} className="web-image"></img>
-          <div className="view-button">
-          <a href="/business">BUSINESS</a>
+            <a href="/portfolio">DESIGNS</a>
           </div>
         </div>
       </div>

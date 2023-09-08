@@ -8,22 +8,26 @@ import home from "../images/portfolio rounded.png";
 export default function Portfolio() {
     return (
         <>
-        <h1>Get your Portfolio</h1>
+        <h1>Buy available webdesigns</h1>
             <div className='borderline'></div>
             <br />
             <br/>
             <div className="layout-box">
                 <div className="portfolio-text">
-                <h4>Black and White Gallery</h4>
+                <h4>Listed available webdesigns:</h4>
                 <br/>
-                <p>Black and White Gallery website is under construction and are soon available for
+                <p>Black and White Gallery Portfolio website is under construction and are soon available for
                     purchase.
                 </p>
                 <br/>
-                <p>Portfolio webdesigns will be put here for immediate sale!</p>
+                <p>Webdesigns like unique Blogs, Portfolio´s or Business-webpage solutions will be put here for 
+                    immediate sale!</p>
                 <br/>
-                <p>These are finshed designs ready to be deployed online as soon 
-                    they are set up with a hosting and a domain.
+                <p>These are finshed designs with implemented functionalities ready to be deployed online. </p>
+                <br/>
+                <p>After purchase the site will be set up with a hosting and a domain by your choosing. 
+                    Images and content for this layout is just a demo for display and not for sale. 
+                    After a request, this will be added to the design to fit your needs.
                 </p>
                 <br/>
                 <p>A live link will be available for each protype that are available to purchase.</p>
@@ -33,7 +37,7 @@ export default function Portfolio() {
                 </p>
                 <br/>
                 <br/>
-                <p>Pris: 0,- </p>
+                <p>Price: 1999,- </p>
                 <h3>Live Demo:</h3>
                 <br/>
                 <div className="livelink">
