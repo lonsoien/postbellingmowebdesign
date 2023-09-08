@@ -16,7 +16,7 @@ export default function Websites() {
                     <p>
                     <br/>
                     The designer process starts when we have an agreement.
-                    Designer-process is important of creating the design layout before the development and to create the visuall message you want to 
+                    Designer-process is important of creating the design layout before the development and to create the visual message you want to 
                     express to your visitors. 
                     <br/>
                     You will be a part of the process and give feedback along the way. When the prototype is ready the coding starts. 
