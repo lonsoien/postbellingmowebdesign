@@ -10,7 +10,7 @@ export default function Websites() {
             <br/>
                 <div className="layout-text">
                 <div className="portfolio-text">
-                    <h4>Ny Nettside</h4>
+                    <h4>New Website - Designerprocess</h4>
                     <br/>
                     <p>
                         Blog og Portfolio nettsidene er kodet og integrert backend med Sanity.ios, som er som et headless CMS.
@@ -21,7 +21,7 @@ export default function Websites() {
                     </p>
                 </div>
                 <div className="portfolio-text">
-                    <h4>Ting å tenkte på</h4>
+                    <h4>Things to think about</h4>
                     <br/>
                     <p>
                         Blog og Portfolio nettsidene er kodet og integrert backend med Sanity.ios, som er som et headless CMS.
