@@ -10,36 +10,40 @@ export default function Websites() {
             <br/>
                 <div className="layout-text">
                 <div className="portfolio-text">
-                    <h4>New Website - Designerprocess</h4>
+                    <h4>New Website - process</h4>
                     <br/>
                     <p>
-                        Blog og Portfolio nettsidene er kodet og integrert backend med Sanity.ios, som er som et headless CMS.
-                        Med en blog eller en portfolio løsning kan man da "poste" egne innlegg på siden som f.eks artikler i en blog,
-                        og bilder i en portfolio. Her kan man selv kontrollere innholdet, ved å legge til eller fjerne innlegg/post. 
-                        Det fine med headless CMS er at om du ønsker å fornye nettsiden, har man lagret all content på en server i dette 
-                        tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
+                    Either a blog, portfolio, business or something other in mind, lets create together! 
+                    The designer process starts when we have an agreement.
+                    This is half of the process of creating the design you want and the message you want to 
+                    express to your visitors. 
+                    You will be a part of the process and give feedback along the way, and when the prototype is ready the coding starts. 
+                    The designer-process and devlopment may vary on how big the project is! 
+                    I use Adobe XD as a tool and will share links so you can follow the development. 
                     </p>
                 </div>
                 <div className="portfolio-text">
                     <h4>Things to think about</h4>
                     <br/>
                     <p>
-                        Blog og Portfolio nettsidene er kodet og integrert backend med Sanity.ios, som er som et headless CMS.
-                        Med en blog eller en portfolio løsning kan man da "poste" egne innlegg på siden som f.eks artikler i en blog,
-                        og bilder i en portfolio. Her kan man selv kontrollere innholdet, ved å legge til eller fjerne innlegg/post. 
-                        Det fine med headless CMS er at om du ønsker å fornye nettsiden, har man lagret all content på en server i dette 
-                        tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
+                        <li>Brand Identity</li>
+                        <li>Functionality</li>
+                        <li>Budget</li>
+                        <li>Material, content</li>
+                        <li>Images</li>
+                        <li>Competitors</li>
+                        <li>Target</li>
                     </p>
                 </div>
                 <div className="portfolio-text">
-                    <h4>Prosessen</h4>
+                    <h4>Deployment</h4>
                     <br/>
                     <p>
-                        Blog og Portfolio nettsidene er kodet og integrert backend med Sanity.ios, som er som et headless CMS.
-                        Med en blog eller en portfolio løsning kan man da "poste" egne innlegg på siden som f.eks artikler i en blog,
-                        og bilder i en portfolio. Her kan man selv kontrollere innholdet, ved å legge til eller fjerne innlegg/post. 
-                        Det fine med headless CMS er at om du ønsker å fornye nettsiden, har man lagret all content på en server i dette 
-                        tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
+                       When the website is ready, and you are happy with the results its time to deploy your website.
+                       Domain and hosting is a seperate service that needs to be paid monthly to the provider.
+                       I use One.com or Netlify. The price may vary depends on what adress you want and what is available. 
+                       <br/>
+                       A montly subscription to a hosting service is what you pay to own the rights to your domain, and adress to your website. 
                     </p>
                 </div>
             </div>
