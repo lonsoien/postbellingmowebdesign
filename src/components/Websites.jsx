@@ -12,14 +12,16 @@ export default function Websites() {
                 <div className="portfolio-text">
                     <h4>New Website - process</h4>
                     <br/>
+                    <p>In need for a new website in mind? Lets create together! </p>
                     <p>
-                    Either a blog, portfolio, business or something other in mind, lets create together! 
+                    <br/>
                     The designer process starts when we have an agreement.
-                    This is half of the process of creating the design you want and the message you want to 
+                    Designer-process is important of creating the design layout before the development and to create the visuall message you want to 
                     express to your visitors. 
-                    You will be a part of the process and give feedback along the way, and when the prototype is ready the coding starts. 
-                    The designer-process and devlopment may vary on how big the project is! 
-                    I use Adobe XD as a tool and will share links so you can follow the development. 
+                    <br/>
+                    You will be a part of the process and give feedback along the way. When the prototype is ready the coding starts. 
+                    The designer-process and devlopment/coding may vary on how big the project is! 
+                    I use Adobe XD as a tool and will share links so you can follow the progress. 
                     </p>
                 </div>
                 <div className="portfolio-text">
@@ -32,7 +34,7 @@ export default function Websites() {
                         <li>Material, content</li>
                         <li>Images</li>
                         <li>Competitors</li>
-                        <li>Target</li>
+                        <li>Target Market</li>
                     </p>
                 </div>
                 <div className="portfolio-text">
@@ -41,9 +43,9 @@ export default function Websites() {
                     <p>
                        When the website is ready, and you are happy with the results its time to deploy your website.
                        Domain and hosting is a seperate service that needs to be paid monthly to the provider.
-                       I use One.com or Netlify. The price may vary depends on what adress you want and what is available. 
+                       I use Netlify as domain provider. The price may vary depends on what adress you want and what is available. 
                        <br/>
-                       A montly subscription to a hosting service is what you pay to own the rights to your domain, and adress to your website. 
+                       A montly subscription to a hosting service is what you pay to own the rights to your domain.
                     </p>
                 </div>
             </div>
