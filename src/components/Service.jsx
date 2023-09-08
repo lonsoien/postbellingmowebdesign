@@ -1,63 +1,71 @@
 import top from "../images/top64.png"; 
 
+
 function Service() {
     return (
         <> 
             <h1 style={{ color: "white" }}>SERVICES</h1>
             <div className='borderline'></div>
-
             <div className="service">
                 <div className="service-text">
-                    <h4>Kjøp av nettside</h4>
+                    <h4>Buy a website</h4>
                     <br/>
                     <p>
-                    Det å kjøpe en ny nettside kan være til tider vanskelig og frustrerende. 
-                    Hvilken type nettside trenger jeg for min bedrift, hvilket budsjett har jeg? 
-                    Eller er du privat og ønsker en alternativ løsning for å syns online, men til en
-                    rimelig pris? 
-                    Kanskje har du mange følgere på ulike SoMe-kanaler, men er i behov for å profilere deg også med en nettløsning? </p>
-                    <br/>
-                    <p>
-                    Det finnes mange gode enkle løsninger som gjør jobben for deg med å sette opp egen nettside som f.eks Wordpress, WIX, Webnode ect. 
-                    Dette gjør deg nødvendigvis ikke til en digital designer, som kan triksene med å lage en visuell attraktiv og appellerende nettside. 
-                    <br/>
-                    Her på bellingmowebdesign kan du få et solid moderne webdesign, til en god pris og tilpasses deg og dine ønsker
-                    uten å måtte gå veien til de større bedriftene, som raskt kan koste deg dyrt.
+                    When buying a new website, there are things multiple things to consider and it can be difficult and some times frustrating. 
+                    What type of website do I need for my business, and how much money do I want to spend? 
+                    Maybe you are a private buyer that want a more simpler solution to show and express yourself 
+                    online? Maybe you have many followers on different SoMe channels, but also want to create a 
+                    profile with a website solution?
                     </p>
                     <br/>
+                    <p> There are many gode solutions that can do the job for you. 
+                        Like setting up your own website with Wordpress, WIX or Webnode ect. 
+                        That’s doesn’t necessary make you a digital designer, who knows the tricks of 
+                        creating an attracting and visual impressive website. </p>
+                        <br/>
+                        <p>
+                        Here on bellingmowedesign you will get a solid, modern website adapted to your 
+                        needs for a good price without the hustle, nor have to spend a lot of money on the bigger agencies.
+                        </p>
+                    <br/>
                 </div>
                 <div className="service-text">
-                    <h4>Hvordan kjøper jeg nettside?</h4>
+                    <h4>How to buy a website from bellingmowebdesign?</h4>
+                    <br/>
+                    <p>Send in a non-binding request to postbellingmo@gmail.com.</p>
                     <br/>
                     <p>
-                    Send inn en uforpliktende forespørsel på 
-                    <p style={{textDecoration: "underline",}}>postbellingmo@gmail.com. </p>
-                    <br/>
-                    Skriv gjerne litt om deg og/eller din bedrift, og forklar gjerne hva du ønsker på nettsiden. Har du en «identitet» eller «brand» som du vil uttrykke på nettsiden, isåfall forklar. «Med identitet så menes det formidlingen nettsiden skal ha og type innhold som gir informasjon til de besøkende på nettsiden din.» 
-                    Andre spørsmål og henvendelser er også velkomne.
-                </p>
+                    Write a little bit about yourself and/or your business. 
+                    Explain what type of website you are looking for and what type of functionalities you wish to have on your site.
+                    </p>
                 <br/>
                 <p>
-                Bilder, content og div materiel til nettsiden avtales i ettertid når du har 
-                sendt forespørsel om hvilken type nettside som du ønsker å kjøpe. 
-                Forespørsel vil bli besvart innen 1-3 dager. 
+                After the request and a deal is made on what type of website you want, we will then be 
+                adding all the images, content and material for your website. 
+                Your request will be answered within 1-3 working days. 
                 </p>
+                <br/>
+                <p>Any qestions or other requires are all ofcourse welcomed!</p>
                 </div>
                 <div className="service-text">
-                    <h4>Type nettsider til Salg:</h4>
+                    <h4>Types of webdesign for sale:</h4>
                     <br/>
-                    <li><p>Egen utviklet nettside (ingen generell sjanger)</p></li>
+                    <li><p>New website (no genre)</p></li>
                     <li><p> Business </p></li>
                     <li><p> Portfolio </p></li>
                     <li><p> Blog </p></li>
-                    <li><p>Digital CV</p></li>
+                    <li><p>Digital Resume</p></li>
                     <br/>
-                    <p>Alle nettsider er reponsive og utviklet for å tilpasses alle digitale skjermer som web (pc), 
-                        tablets (nettbrett) og mobil (android/apple).</p>
-                        <p>Nettsidene er kodet med React + Sanity.ios som headless CMS. Man vil få egen url  
-                            til eget Studio Dashboard for å poste-innlegg/material på nettsiden.</p>
-                        <p>Alle nettsider følger rettningslinjene for WCAG. Nettsidene inneholder metatags for
-                         search engines som f.eks Google.</p>
+                    <p>
+                    All websites are responsive and developed to adapt all digital screens like computers (pc), tablets and mobile (android/apple). 
+                    All webpages are coded with javascript library React and I use Sanity.ios as headless CMS (API). 
+                    You will get your own url to your Studio Dashboard to post «add/delete» material into your website.
+                    </p>
+                    <br/>
+                    <p>
+                    All websites follows the guidelines for WCAG. 
+                    The webdesigns contains metatags for search engines like Google.
+                    </p>
                 </div>
             </div>
                 <div className="service">
