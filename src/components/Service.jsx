@@ -18,7 +18,7 @@ function Service() {
                     profile with a website solution?
                     </p>
                     <br/>
-                    <p> There are many gode solutions that can do the job for you. 
+                    <p> There are many good solutions that can do the job for you. 
                         Like setting up your own website with Wordpress, WIX or Webnode ect. 
                         That’s doesn’t necessary make you a digital designer, who knows the tricks of 
                         creating an attracting and visual impressive website. </p>
