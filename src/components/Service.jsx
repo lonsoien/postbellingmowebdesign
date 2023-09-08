@@ -107,9 +107,9 @@ function Service() {
                     <p>
                     Either a blog, portfolio, business or something other in mind, lets create together! 
                     Send a non-binding request today and lets talk about what you want and need for your website. 
-                    The designer process starts when we have an agreement. The designer-process will take up to 1-3 weeks, based on the size of the project. 
+                    The designer process starts when we have an agreement.
                     You will be a part of the process and give feedback along the way, and when the prototype is ready the coding starts. 
-                    This may take 1-3 weeks, again depends on the size of the project. 
+                    The designer-process and devlopment may vary on how big the project is! 
                     </p>
                     <br/>
                     <p>More info and will be provided when you send a request, as all requests are different, 
