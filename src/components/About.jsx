@@ -35,11 +35,11 @@ function About() {
                     <br/>
                     <p>
                     I use a Javascript-libary React, and a built in headless CMS solution Sanity.ios. Sanity is a regular headless CMS thats has a React-based 
-                    editor, the Sanity Studio, wich is easy to configure and customize.
+                    editor, the Sanity Studio, which is easy to configure and customize.
                     For styling I use libary like Framer motion and SASS(SCSS/CSS). All code are kept in a
                     Github repo, that you will get access to.
                     </p>
-                    <p>Any technical questions or want to know more? Please contact on postbellingmo@gmail.com</p>
+                    <p>Any technical questions or want to know more? Please contact postbellingmo@gmail.com</p>
                 </div>
             </div>
             </div>
