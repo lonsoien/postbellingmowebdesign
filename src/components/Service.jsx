@@ -81,7 +81,7 @@ function Service() {
                     </p>
                     <br/>
                     <p style={{textDecoration: "underline"}}>Start Price 1899,- Kr</p>
-                    <p style={{textDecoration: "underline"}}>Start Price 166,25 - EUR</p>
+                    <p style={{textDecoration: "underline"}}>Start Price 167 EUR</p>
                    </div>
                    <div className="service-text">
                     <h4>Business website</h4>
@@ -99,7 +99,7 @@ function Service() {
                      </p>
                     <br/>
                     <p style={{textDecoration: "underline",}}>Start Price 3499,- kr</p>
-                    <p style={{textDecoration: "underline"}}>Start Price 306,39 - EUR</p>
+                    <p style={{textDecoration: "underline"}}>Start Price 307 EUR</p>
                 </div>
                    <div className="service-text">
                     <h4>New website</h4>
@@ -116,7 +116,7 @@ function Service() {
                     and no website is alike. </p>
                     <br/>
                     <p style={{textDecoration: "underline",}}>Start Price 3499,- kr</p>
-                    <p style={{textDecoration: "underline"}}>Start Price 306,39 - EUR</p>
+                    <p style={{textDecoration: "underline"}}>Start Price 307 EUR</p>
                 </div>
             </div>
             <div className="container-animation">

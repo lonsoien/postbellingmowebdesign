@@ -55,7 +55,8 @@ export default function Portfolio() {
                 <br/>
                 <br/>
                 <br/>
-                <p>Price: 1999,- </p>
+                <p>Price: 1999,- Kr</p>
+                <p>Price: 175 EUR </p>
                 <h3>Live Demo:</h3>
                 <br/>
                 <div className="livelink">
