@@ -1,6 +1,6 @@
 import next from "../images/icon.png"; 
 import back from "../images/icon-back.png"; 
-import home from "../images/portfolio rounded.png";
+import home from "../images/Portfolio home.png";
 import illustrate from "../images/template.jpg";
 
 
@@ -13,7 +13,6 @@ export default function Portfolio() {
             <br/>
             <div className="layout-box">
             <img className="website-img" alt="black and white portfolio" src={illustrate}></img>
-            <br/>
                 <div className="portfolio-text">
                 <br/>
                 <h4>Webdesigns like unique Blogs, Portfolio´s or Business-webpage solutions will be put here for 

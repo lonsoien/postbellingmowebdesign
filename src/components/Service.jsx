@@ -72,47 +72,51 @@ function Service() {
                 <div className="service-text">
                     <h4>Blog & Portfolio</h4>
                     <br/>
-                    <p>Blog og Portfolio nettsidene er kodet og integrert backend med Sanity.ios, som er som et headless CMS.
-                        Med en blog eller en portfolio løsning kan man da "poste" egne innlegg på siden som f.eks artikler i en blog,
-                        og bilder i en portfolio. Her kan man selv kontrollere innholdet, ved å legge til eller fjerne innlegg/post. 
-                        Det fine med headless CMS er at om du ønsker å fornye nettsiden, har man lagret all content på en server i dette 
-                        tilfelle Sanity.ios, uten å måtte slette hele nettsiden for å fornye utseende. 
-                        Frontend kan endres uavgengig av content som er "postet" på nettsiden.  
+                    <p>
+                    The Blog and Portfolio websites are coded and integrated backend with Sanity.ios, that are a headless CMS. 
+                    With a blog or portfolio web-solution you can post/edit/delete e.g articles on a blog or images in a portfolio 
+                    from your own Studio Dashboard. The upsides with a headless CMS like Sanity is that you can post and store your 
+                    content on a server, without have to delete your content if you want to delete or change your whole webpage. 
+                    The frontend is kept separate and can be updated or changed whenever you want without risking your content.
                     </p>
                     <br/>
-                    <p style={{textDecoration: "underline",}}>Start Pris fra 1899,- kr</p>
+                    <p style={{textDecoration: "underline"}}>Start Price 1899,- Kr</p>
+                    <p style={{textDecoration: "underline"}}>Start Price 166,25 - EUR</p>
                    </div>
                    <div className="service-text">
-                    <h4>Business nettside</h4>
+                    <h4>Business website</h4>
                     <br/>
                     <p>
-                        En business nettside passer best for de med en mindre bedrift som ønsker å markedsføre, informere og 
-                        navigere sin foretning på nett, slik at man blir lett tilgjengelig. 
-                        Med en business nettside har man flere funksjoner, innhold, og landingssider. Gjerne en hjemmeside med 1-3 ekstra
-                        landingssider som f.eks informasjon om bedriften, kontakt detaljer, navigere til ulike tjenester og service 
-                        man kan tilby sine kunder/klienter. 
-                        Dette er også en fin måte å markedsføre sin foretnings identitet for å øke kundegruppen og veksten 
-                        i selskapet. </p>
+                    A business webpage are best suited those who have their own business and want to promote 
+                    and market their enterprise online. With a business website you may have multiple 
+                    functions that suits your business, and a lot more landing pages. 
+                    <p/>
                     <br/>
-                    <p style={{textDecoration: "underline",}}>Start Pris fra 3499,- kr</p>
+                    Content is key and a «brand identity» is crucial for your users to get credibility for 
+                    your business so they know the service you provide are quality. This gives your customers 
+                    trust and want to return to you.
+                    Not to mention, also to create good revenue for your business! 
+                     </p>
+                    <br/>
+                    <p style={{textDecoration: "underline",}}>Start Price 3499,- kr</p>
+                    <p style={{textDecoration: "underline"}}>Start Price 306,39 - EUR</p>
                 </div>
                    <div className="service-text">
-                    <h4>Egen utviklet nettside</h4>
+                    <h4>New website</h4>
                     <br/>
                     <p>
-                        Du kan også sende inn en forespørsel om få egen utviklet nettside etter ditt ønske.
-                        Det vi gjør først er å planlegge og avtale aspekter som design, landingssider, div funksjonalitet,
-                        innhold størrelse, fonts m.m. </p>
-                        <br/>
-                        <p>
-                        Når vi er enige om identiteten og layouten starter selve designer prossesen. 
-                        Dette kan ta alt fra 1-3 uker å utvikle prototypen, basert på størrelsen på prosjektet. 
-                        Her vil man ha muligheter for å delta i designer fasen for å gi feedback. Når man er fornøyd 
-                        med resultatet går man over til kodingen/utviklingen av selve nettsiden.
-                        Dette tar også tid alt fra 1-3 uker. 
+                    Either a blog, portfolio, business or something other in mind, lets create together! 
+                    Send a non-binding request today and lets talk about what you want and need for your website. 
+                    The designer process starts when we have an agreement. The designer-process will take up to 1-3 weeks, based on the size of the project. 
+                    You will be a part of the process and give feedback along the way, and when the prototype is ready the coding starts. 
+                    This may take 1-3 weeks, again depends on the size of the project. 
                     </p>
                     <br/>
-                    <p style={{textDecoration: "underline",}}>Start Pris fra 3499,- kr</p>
+                    <p>More info and will be provided when you send a request, as all requests are different, 
+                    and no website is alike. </p>
+                    <br/>
+                    <p style={{textDecoration: "underline",}}>Start Price 3499,- kr</p>
+                    <p style={{textDecoration: "underline"}}>Start Price 306,39 - EUR</p>
                 </div>
             </div>
             <div className="container-animation">
