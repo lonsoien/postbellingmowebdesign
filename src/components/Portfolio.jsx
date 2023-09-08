@@ -46,7 +46,7 @@ export default function Portfolio() {
                     purchase.
                 </h4>
                 <br/>
-                <p>This webdesign is a gallery with focus on display images. Further description will be povided
+                <p>This webdesign is a gallery with focus on display images. Further description will be provided
                     when the construction is finished. 
                 </p>
                 <br/>
