@@ -20,7 +20,7 @@ function Footer() {
                         <p>postbellingmo@gmail.com</p>
                     </div>
                     <div className="icon-box">
-                    <a href="#">
+                    <a href="https://www.instagram.com/bellingmowebdesign/">
                         <i><img src={facebook} alt="" style={{width: "60px", padding: "10px"}}></img></i>
                         </a>
                         <a href="https://www.instagram.com/bellingmowebdesign/">
