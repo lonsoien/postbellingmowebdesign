@@ -20,7 +20,7 @@ function Footer() {
                         <p>postbellingmo@gmail.com</p>
                     </div>
                     <div className="icon-box">
-                    <a href="https://facebook.com">
+                    <a href="#">
                         <i><img src={facebook} alt="" style={{width: "60px", padding: "10px"}}></img></i>
                         </a>
                         <a href="https://www.instagram.com/bellingmowebdesign/">
@@ -30,7 +30,8 @@ function Footer() {
                             <i><img src={linkedin} alt="" style={{width: "60px", padding: "10px"}}></img></i>
                         </a>
                         <p style={{ textAlign: "center", color: "#e3e8e9", fontSize: "12px", margin: "10px" }}>
-                    ...</p>
+
+                        </p>
                     </div>
                 </div>
             </footer>
