@@ -30,7 +30,7 @@ function Footer() {
                             <i><img src={linkedin} alt="" style={{width: "60px", padding: "10px"}}></img></i>
                         </a>
                         <p style={{ textAlign: "center", color: "#e3e8e9", fontSize: "12px", margin: "10px" }}>
-                    orgnr: 999 999 999</p>
+                    .....</p>
                     </div>
                 </div>
             </footer>
