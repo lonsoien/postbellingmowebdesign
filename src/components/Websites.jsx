@@ -20,7 +20,7 @@ export default function Websites() {
                     express to your visitors. 
                     <br/>
                     You will be a part of the process and give feedback along the way. When the prototype is ready the coding starts. 
-                    The designer-process and devlopment/coding may vary on how big the project is! 
+                    The whole project may vary on how big the project is.
                     I use Adobe XD as a tool and will share links so you can follow the progress. 
                     </p>
                 </div>
