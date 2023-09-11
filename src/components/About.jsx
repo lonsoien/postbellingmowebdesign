@@ -66,7 +66,7 @@ function About() {
             </div>
             <div className="container-animation">
                 <div className="select-button">
-                    <a href="https://louisebellingmo-portfolio.netlify.app/work">PORTFOLIO</a>
+                    <a href="#">PORTFOLIO</a>
                 </div>
             </div>
             <br/>
