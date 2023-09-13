@@ -11,7 +11,7 @@ function Service() {
                     <h4>Buy a website</h4>
                     <br/>
                     <p>
-                    When buying a new website, there are things multiple things to consider and it can be difficult and some times frustrating. 
+                    When buying a new website, there are multiple things to consider and it can be difficult and frustrating. 
                     What type of website do I need for my business, and how much money do I want to spend? 
                     Maybe you are a private buyer that want a more simpler solution to show and express yourself 
                     online? Maybe you have many followers on different SoMe channels, but also want to create a 

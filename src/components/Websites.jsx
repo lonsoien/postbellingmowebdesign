@@ -16,11 +16,11 @@ export default function Websites() {
                     <p>
                     <br/>
                     The designer process starts when we have an agreement.
-                    Designer-process is important of creating the design layout before the development and to create the visual message you want to 
-                    express to your visitors. 
+                    Designer-process is important to create the design layout before the webdesign development starts. 
                     <br/>
-                    You will be a part of the process and give feedback along the way. When the prototype is ready the coding starts. 
-                    The whole project may vary on how big the project is.
+                    You will be a part of the process and give feedback along the way. When the prototype is ready and we are happy with the look
+                    the development begins. 
+                    The time from start to finish may vary on how big the project is.
                     I use Adobe XD as a tool and will share links so you can follow the progress. 
                     </p>
                 </div>
