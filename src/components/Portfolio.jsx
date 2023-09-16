@@ -76,7 +76,7 @@ export default function Portfolio() {
             <br/>
             <div className="container-animation">
                 <div className="select-button">
-                    <a href="/digitalproducts">BACK
+                    <a href="/home">HOME
                     <img src={back} alt="arrow" style={{width: "32px", margin: "2px"}}></img>
                     </a>
                 </div>

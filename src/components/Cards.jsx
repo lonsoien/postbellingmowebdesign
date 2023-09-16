@@ -13,8 +13,8 @@ function Cards() {
                     alt="digital">
                     </img>
                     <div className="content-animation">
-                        <h2>DESIGNS</h2>
-                        <h3>WEBSITE DESIGNS</h3>
+                        <h2>PRODUCTS</h2>
+                        <h3>DIGITAL PRODUCTS</h3>
                         <div className="select-button">
                             <a href="/digitalproducts">SELECT</a>
                         </div>
@@ -26,10 +26,10 @@ function Cards() {
                     alt="digital">
                     </img>
                     <div className="content-animation">
-                        <h2>WEBSITE</h2>
-                        <h3>CREATE WEBSITE</h3>
+                        <h2>DESIGN</h2>
+                        <h3>WEBSITE DESIGNS</h3>
                         <div className="select-button">
-                            <a href="/websites">SELECT</a>
+                            <a href="/portfolio">SELECT</a>
                         </div>
                     </div>
                 </div>
@@ -39,10 +39,10 @@ function Cards() {
                     alt="digital">
                     </img>
                     <div className="content-animation">
-                        <h2>PROJECTS</h2>
-                        <h3>ABOUT & PROJECTS</h3>
+                        <h2>WEBSITE</h2>
+                        <h3>CREATE WEBSITE</h3>
                         <div className="select-button">
-                            <a href="/about">SELECT</a>
+                            <a href="/websites">SELECT</a>
                         </div>
                     </div>
                 </div>

@@ -18,7 +18,7 @@ export default function Websites() {
                     The designer process starts when we have an agreement.
                     Designer-process is important to create the design layout before the webdesign development starts. 
                     <br/>
-                    You will be a part of the process and give feedback along the way. When the prototype is ready and we are happy with the look
+                    You will be a part of the process and give feedback along the way. When the prototype is ready and we are happy with the design,
                     the development begins. 
                     The time from start to finish may vary on how big the project is.
                     I use Adobe XD as a tool and will share links so you can follow the progress. 
@@ -32,7 +32,7 @@ export default function Websites() {
                         <li>Functionality</li>
                         <li>Budget</li>
                         <li>Material, content</li>
-                        <li>Images</li>
+                        <li>Images, logo</li>
                         <li>Competitors</li>
                         <li>Target Market</li>
                     </p>
@@ -53,7 +53,7 @@ export default function Websites() {
             <br />
             <div className="container-animation">
             <div className="select-button">
-                    <a href="/digitalproducts">BACK
+                    <a href="/home">HOME
                     <img src={back} alt="arrow" style={{width: "32px", margin: "2px"}}></img>
                     </a>
                 </div>

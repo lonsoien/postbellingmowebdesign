@@ -13,14 +13,14 @@ function Service() {
                     <p>
                     When buying a new website, there are multiple things to consider and it can be difficult and frustrating. 
                     What type of website do I need for my business, and how much money do I want to spend? 
-                    Maybe you are a private buyer that want a more simpler solution to show and express yourself 
+                    Maybe you want a simpler solution to show and express yourself 
                     online? Maybe you have many followers on different SoMe channels, but also want to create a 
                     profile with a website solution?
                     </p>
                     <br/>
                     <p> There are many good solutions that can do the job for you. 
                         Like setting up your own website with Wordpress, WIX or Webnode ect. 
-                        That’s doesn’t necessary make you a digital designer, who knows the tricks of 
+                        That doesn’t necessary make you a digital designer, who knows the tricks of 
                         creating an attracting and visual impressive website. </p>
                         <br/>
                         <p>
@@ -41,11 +41,11 @@ function Service() {
                 <br/>
                 <p>
                 After the request and a deal is made on what type of website you want, we will then be 
-                adding all the images, content and material for your website. 
+                adding the images, content and material for your website. 
                 Your request will be answered within 1-3 working days. 
                 </p>
                 <br/>
-                <p>Any qestions or other requires are all ofcourse welcomed!</p>
+                <p>Any questions or other requires are all ofcourse welcomed!</p>
                 </div>
                 <div className="service-text">
                     <h4>Types of webdesign for sale:</h4>
@@ -79,9 +79,6 @@ function Service() {
                     content on a server, without have to delete your content if you want to delete or change your whole webpage. 
                     The frontend is kept separate and can be updated or changed whenever you want without risking your content.
                     </p>
-                    <br/>
-                    <p style={{textDecoration: "underline"}}>Start Price 1899,- Kr</p>
-                    <p style={{textDecoration: "underline"}}>Start Price 167 EUR</p>
                    </div>
                    <div className="service-text">
                     <h4>Business website</h4>
@@ -97,9 +94,6 @@ function Service() {
                     trust and want to return to you.
                     Not to mention, also to create good revenue for your business! 
                      </p>
-                    <br/>
-                    <p style={{textDecoration: "underline",}}>Start Price 3499,- kr</p>
-                    <p style={{textDecoration: "underline"}}>Start Price 307 EUR</p>
                 </div>
                    <div className="service-text">
                     <h4>New website</h4>
@@ -115,8 +109,6 @@ function Service() {
                     <p>More info and will be provided when you send a request, as all requests are different, 
                     and no website is alike. </p>
                     <br/>
-                    <p style={{textDecoration: "underline",}}>Start Price 3499,- kr</p>
-                    <p style={{textDecoration: "underline"}}>Start Price 307 EUR</p>
                 </div>
             </div>
             <div className="container-animation">

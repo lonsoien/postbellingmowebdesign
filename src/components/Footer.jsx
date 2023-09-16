@@ -11,8 +11,8 @@ function Footer() {
             <footer>
                 <div>
                     <div className="links">
-                        <a href="/digitalproducts">SERVICES</a>
                         <a href="/">HOME</a>
+                        <a href="/portfolio">WEBDESIGN</a>
                         <a href="/about">ABOUT</a>
                     </div>
                     <div className="adress">

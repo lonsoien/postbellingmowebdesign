@@ -8,13 +8,13 @@ function ProductCard() {
         <div className="card-product">
           <img alt="webdesign product" src={ui} className="web-image"></img>
           <div className="view-button">
-          <a href="/websites">NEW SITE</a>
+          <a href="/websites">NEW WEBSITE</a>
           </div>
         </div>
         <div className="card-product">
           <img alt="webdesign product" src={iphone} className="web-image"></img>
           <div className="view-button">
-            <a href="/portfolio">DESIGNS</a>
+            <a href="/portfolio">WEBDESIGNS</a>
           </div>
         </div>
       </div>
