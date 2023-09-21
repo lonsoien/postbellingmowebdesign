@@ -1,5 +1,5 @@
 import React from "react";
-import facebook from "../images/icons8-facebook-200.png";
+//import facebook from "../images/icons8-facebook-200.png";
 import linkedin from "../images/icon-linkedin-200.png";
 import instagram from "../images/icon-instagram-old-200.png";
 
@@ -20,9 +20,6 @@ function Footer() {
                         <p>postbellingmo@gmail.com</p>
                     </div>
                     <div className="icon-box">
-                    <a href="https://www.instagram.com/bellingmowebdesign/">
-                        <i><img src={facebook} alt="" style={{width: "60px", padding: "10px"}}></img></i>
-                        </a>
                         <a href="https://www.instagram.com/bellingmowebdesign/">
                          <i><img src={instagram} alt="" style={{width: "60px", padding: "10px"}}></img></i>
                         </a>
